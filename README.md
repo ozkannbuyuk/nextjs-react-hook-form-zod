@@ -18,8 +18,8 @@ I created a dynamic form using React Hook Form and Zod in Next.js projects.
 </h2>
 
 - ⭐️ &nbsp; [Next.js](https://nextjs.org)
-- ⭐️ &nbsp; [react-hook-form](https://react-hook-form.com)
-- ⭐️ &nbsp; [zod](https://zod.dev)
+- ❤ &nbsp; [react-hook-form](https://react-hook-form.com)
+- 💚 &nbsp; [zod](https://zod.dev)
 - ➕ &nbsp; Bonus Features
 
 <br />
