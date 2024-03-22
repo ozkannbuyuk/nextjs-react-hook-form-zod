@@ -2,6 +2,10 @@
    Next.js - React Hook Form & Zod
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/nextjs-react-hook-form-zod/assets/111967202/cd1c3790-e3fc-4af3-a854-ee11a209fdc3" width="700" />
 </p>
